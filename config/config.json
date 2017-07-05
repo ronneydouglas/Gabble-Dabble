@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Ronney",
+    "password": null,
+    "database": "gabbadoo",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Ronney",
+    "password": null,
+    "database": "gabbadoo",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Ronney",
+    "password": null,
+    "database": "gabbadoo",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
