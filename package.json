@@ -1,7 +1,6 @@
 {
   "name": "6th-week-project",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,8 +16,11 @@
     "express-validator": "^3.2.0",
     "morgan": "^1.8.2",
     "mustache": "^2.3.0",
+    "mustache-express": "^1.2.5",
     "path": "^0.12.7",
     "pg": "^6.4.0",
     "sequelize": "^4.2.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
